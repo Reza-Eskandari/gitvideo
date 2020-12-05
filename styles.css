@@ -5,3 +5,9 @@ body {
 h1 {
   color: aquamarine;
 }
+
+.block-of-code {
+  height: 300px;
+  width: 400px;
+  background: blueviolet;
+}
